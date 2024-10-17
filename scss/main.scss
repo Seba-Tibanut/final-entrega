@@ -1,0 +1,22 @@
+/*Importamos los archivos scss que referencian a las pages*/
+@import 'scss/carrito.scss';    
+@import 'scss/contactos.scss';
+@import 'scss/info-producto.scss';
+@import 'scss/productos.scss';
+@import 'scss/home.scss';
+
+/*Implementacion de media queries*/
+
+@import 'scss/mq/tablet.scss';
+@import 'scss/mq/desktop.scss';
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
